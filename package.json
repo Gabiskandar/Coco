@@ -1,7 +1,7 @@
 {
-    "name": "ghost-starter-theme",
+    "name": "coco",
     "description": "A custom theme for ghost",
-    "demo": "https://starter.ghost.io",
+    "demo": " ",
     "version": "1.0.0",
     "engines": {
         "ghost": ">=4.0.0",
@@ -21,15 +21,14 @@
         "ship": "STATUS=$(git status --porcelain); echo $STATUS; if [ -z \"$STATUS\" ]; then yarn version && git push --follow-tags; fi"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Gabrielle Iskandar",
+        "email": "gabiskandar@gmail.com",
+        "url": " "
     },
     "gpm": {
         "type": "theme",
         "categories": [
-            "Minimal",
-            "Magazine"
+            "Minimal"
         ]
     },
     "keywords": [
@@ -39,10 +38,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Starter.git"
+        "url": "https://github.com/Gabiskandar/Coco.git"
     },
-    "bugs": "https://github.com/TryGhost/Starter/issues",
-    "contributors": "https://github.com/TryGhost/Starter/graphs/contributors",
+    "bugs": "https://github.com/Gabiskandar/Coco/issues",
+    "contributors": "https://github.com/Gabiskandar/Coco/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "10.2.5",
         "cssnano": "5.0.1",
